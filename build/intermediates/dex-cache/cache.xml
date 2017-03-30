@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\fkjslee\Desktop\workspace\AnotherAmapLocationDemo\AMapLocationDemo\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="C:\Users\fkjslee\Desktop\workspace\AnotherAmapLocationDemo\AMapLocationDemo\app\build\intermediates\pre-dexed\debug\android-support-v4_8f6d6cef90e165b3d957bdf368badce98baf36c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fkjslee\Desktop\workspace\AnotherAmapLocationDemo\AMapLocationDemo\app\libs\AMap_Location_V3.3.0_20170118.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="299ccce875c1bbd5eb2802923ae89946e22b7ee6">
+        <dex dex="C:\Users\fkjslee\Desktop\workspace\AnotherAmapLocationDemo\AMapLocationDemo\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.3.0_20170118_49ea8ee346ab2592397e147dd8e277dd2b0ced04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fkjslee\Desktop\workspace\AnotherAmapLocationDemo\AMapLocationDemo\app\libs\Android_Map3D_SDK_V5.0.0_20170311.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1138283bb2b30bbf424a02eeeadab84edfc1571c">
+        <dex dex="C:\Users\fkjslee\Desktop\workspace\AnotherAmapLocationDemo\AMapLocationDemo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.0.0_20170311_d8267088c57332ef70450bbaae980feb186ccc89.jar" />
+    </item>
+
+</items>
